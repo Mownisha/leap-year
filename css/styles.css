@@ -1,0 +1,28 @@
+#result {
+  display: none;
+}
+
+body {
+  font-style: italic;
+  font-family: cursive;
+  background-color: pink;
+}
+
+.jumbotron {
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+  color: purple;
+}
+
+p {
+  font-size: 20px;
+}
+
+.form-group {
+  color: purple;
+  font-size: 20px;
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
